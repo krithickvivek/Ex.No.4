@@ -95,4 +95,4 @@ Manufacturing companies, specifically in sectors like **automotive, electronics,
 - The various types of prompts such as **Comparative Analysis, Universal Prompt, Structured Prompt Refinement, and Prompt Size Limitation** were successfully applied.  
 - A **complete report** was generated for the given **Unit 5 use case** using **Unit 2 prompt types**.  
 
-**Therefore, the prompts were executed successfully.** ✅  
+**Therefore, the prompts were executed successfully.** 
